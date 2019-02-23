@@ -1,0 +1,11 @@
+INSERT INTO course (course, course_image, type_1, type_2, type_3, type_4, type_5) 
+VALUES ('Yoga', 'Image/yoga.jpg', 'Hatha Yoga', 'Iyengar Yoga', 'Bikram Yoga', 'Vinyasa Yoga', 'Kundalini Yoga')
+
+INSERT INTO course (course, course_image, type_1, type_2, type_3, type_4, type_5) 
+VALUES ('Gym', 'Image/gym.jpg', 'Shoulder', 'Back', 'Legs', 'Chest', 'Abs')
+
+INSERT INTO course (course, course_image, type_1, type_2, type_3, type_4, type_5) 
+VALUES ('Swimming', 'Image/swimming.jpg', 'Free styles', 'Breast stroke', 'Back stroke', 'Overarm stroke', 'Butterfly stroke')
+
+INSERT INTO course (course, course_image, type_1, type_2, type_3, type_4, type_5) 
+VALUES ('Dance', 'Image/dance.jpg', 'Ballet', 'Jazz', 'Modern', 'Hip-hop', 'Zumba')
